@@ -5,7 +5,7 @@ public class DeclarationApp {
         byte valByte = 16;
         short valShort = 10;
         int valInt = 1;
-        long valLong = 1000;
+        long valLong = 1000L;
         float valFloat = 12.34F;
         double valDouble = 12.34;
         char valChar = 'A';
