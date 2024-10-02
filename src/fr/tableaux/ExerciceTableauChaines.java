@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ExerciceTableauChaines {
     public static void main(String[] args){
         System.out.println("\nExercice : Declaration et modification\n");
-        String array[] = {"Nantes","Toulouse","Montpellier","Paris","Albi"};
+        String[] array = {"Nantes","Toulouse","Montpellier","Paris","Albi"};
 
         // Première option pour les afficher distinctements
         for(int i =0; i<array.length;i++){
