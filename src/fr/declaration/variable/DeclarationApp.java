@@ -14,5 +14,8 @@ public class DeclarationApp {
 
         System.out.println("Voici le premier affichage texte affiché !");
         System.out.println("Voici la première variable affichée : "+ valInt);
+
+        String randomString = "\nVoici le résultat d'un calcul :\n1+5=6";
+        System.out.println(randomString);
     }
 }
