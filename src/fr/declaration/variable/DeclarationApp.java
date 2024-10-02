@@ -2,7 +2,7 @@ package fr.declaration.variable;
 
 public class DeclarationApp {
     public static void main(String[] args){
-        byte valByte = 0001;
+        byte valByte = 16;
         short valShort = 10;
         int valInt = 1;
         long valLong = 1000;
@@ -11,5 +11,8 @@ public class DeclarationApp {
         char valChar = 'A';
         boolean valBoolean = true;
         String valString = "Bonjour";
+
+        System.out.println("Voici le premier affichage texte affiché !");
+        System.out.println("Voici la première variable affichée : "+ valInt);
     }
 }
